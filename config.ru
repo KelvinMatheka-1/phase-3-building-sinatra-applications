@@ -3,7 +3,7 @@ require 'sinatra'
 class App < Sinatra::Base
 
   get '/' do
-    'reload please!!!'
+    'reload pleasee!!!' " " "hello world"
   end
   
 end

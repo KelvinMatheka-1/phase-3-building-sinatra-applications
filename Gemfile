@@ -34,6 +34,8 @@ group :development do
   # https://github.com/alexch/rerun
   gem "rerun"
 
+  gem "puma"
+
   gem "pry"
 end
 
